@@ -1,0 +1,22 @@
+#mainDiv{
+    border: solid;
+    border-color: black;
+    text-align: center;
+
+}
+
+body {font-family: Arial, Helvetica, sans-serif;}
+
+.login {
+    border: 10px solid #aa0691;
+
+    border-radius: 90px;
+
+    margin: 90px auto 90px auto;
+    width: 90px;
+    margin-bottom: 90px;
+    width: 90PX;
+    text-align: center;
+}
+
+
